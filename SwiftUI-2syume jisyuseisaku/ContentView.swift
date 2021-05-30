@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
- let one = ["肉","魚","麺類"]
+ let one = ["肉","魚","麺類","ご飯もの"]
  let two =  ["外食","自炊","出前"]
  let three = ["500円以内","1000円以内","1000円以上！"]
     
